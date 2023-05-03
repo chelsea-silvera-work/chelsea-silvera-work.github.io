@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "5fc10240b73452c6a64964c44206397c",
-"index.html": "671065859a07ffe983c8cbb9aa14ceee",
-"/": "671065859a07ffe983c8cbb9aa14ceee",
-"main.dart.js": "284cf79a7e78b8473e5102eca53cbea2",
+"index.html": "fa57f50ff25687e5158b3de143bd7b16",
+"/": "fa57f50ff25687e5158b3de143bd7b16",
+"main.dart.js": "a33d2e693d748c7d9b37f83cd91a8f6e",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -23,6 +23,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
 "assets/assets/images/3.0.png": "499ba92faed81f733559f977d5769087",
 "assets/assets/images/hobbies.png": "e8876c70703bf10a4ccd2227a27f0d59",
+"assets/assets/images/instagram.png": "3f14e1cd87c2def0bd2dbd41bbe956d5",
 "assets/assets/images/languages.png": "bb789200518efd640257df36b17be0a1",
 "assets/assets/images/mandai.png": "b507d0f690beafdefa6544ee875b46fb",
 "assets/assets/images/4.0.png": "b39e99f5be3c470d7a52d92507257fad",
